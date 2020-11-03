@@ -1,3 +1,5 @@
+/* Hello Work c example */
+
 #include <stdio.h>
 
 int main() {
